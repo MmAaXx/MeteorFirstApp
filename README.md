@@ -6,6 +6,9 @@ Then you simply need to download the code or to clone the repository.
 
 # Run the app
 In order to run the application, you need to open the command prompt and navigate to your app folder (ex: cd c:/../MeteorFirstApp)
-When you are in the app folder, just enter the following command : meteor.
+
+Before running the server, we need to install all package by writing : meteor npm install
+
+Then just enter the following command to run the server : meteor.
 
 Then open your browser and go to the following url : http://localhost:3000/
